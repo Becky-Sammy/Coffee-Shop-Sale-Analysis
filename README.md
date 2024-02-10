@@ -1,4 +1,8 @@
 # Coffee-Shop-Sale-Analysis
+
+![Intro  Image](https://github.com/Becky-Sammy/Coffee-Shop-Sale-Analysis/assets/156953671/7891f52e-a865-4769-8610-f44f5873d795)
+
+
 Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.
 
 ### Project Overview
@@ -8,7 +12,7 @@ This analysis aim to understand the Maven Roasters sales trended over time, whic
 I came across this dataset from Maven Analytics.
 
 ### Tools
--Excel - Data Analysis and Creating report
+- Excel - Data Analysis and Creating report
 
 ### Data Cleaning and Preparation
 In the initial data preparation, i performed the following tasks;
@@ -27,20 +31,22 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 5. Transaction by hour of the day
 
 ### Data Analysis and Visual
+Explore the data with pivot tables, then added pivot chart to build the below dashboard.
+
+![Coffee Shop Sales](https://github.com/Becky-Sammy/Coffee-Shop-Sale-Analysis/assets/156953671/bea3cadc-3084-42f1-bdd4-1cf50ab49e7f)
+
+Interact with the report [here](https://1drv.ms/x/s!Arao7qmPDoxAgnqF1AbEk9ZX6CRv)
 
 ### Finding
 
 The analysis results are summarized as follows;
-- The company sales increased by 2.09% between Jan and Feb, Feb and March sales increase of 5.05%, March and April had increased by 0.55%
-- Macbook Pro laptop bring in more sales
-- San Francisco has the highest sales compared to other geo
-- USB-C charging cable is the most ordered product
-- Thinkpad laptop is in top 5 product by sales and bottom 5 product by order
-
-  
+- Maven Roasters sales has increased over the months from February, between Feb. and May there was more than 20% sales increase and May to June 6% increase
+- Monday, Thurday and Friday are the busiest days of the week
+- Barista Expresso drive the most revenue for the business
+ 
 ### Recommendations
 
-The analysis highlights company growth over the four months however i suggest;
-- Keep check of inventory especially for the product least priced as we can see from analysis they are the most ordered
-- The Company need to have attentive,quick and more workers during peak time in order to serve more customers thus increase sales
+The analysis shows company steady growth over the months however i suggest;
+- Keep low supply of packaged chocolate, branded, loose tea and coffee beans as this is the least moving items in shop across the 3 location
+- Review the operating hours to help in reducing the operating cost, especially in Lower Manhattan (from 7 p.m - 8p.m there very few orders)
 
