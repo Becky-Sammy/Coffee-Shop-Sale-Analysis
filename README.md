@@ -33,7 +33,8 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 ### Data Analysis and Visual
 Explore the data with pivot tables, then added pivot chart to build the below dashboard.
 
-![Coffee Shop Sales](https://github.com/Becky-Sammy/Coffee-Shop-Sale-Analysis/assets/156953671/bea3cadc-3084-42f1-bdd4-1cf50ab49e7f)
+![Coffee Shop Dash](https://github.com/Becky-Sammy/Coffee-Shop-Sale-Analysis/assets/156953671/8d63b317-23ef-4c3e-adf5-4115aea24eb0)
+
 
 Interact with the report [here](https://1drv.ms/x/s!Arao7qmPDoxAgnqF1AbEk9ZX6CRv)
 
